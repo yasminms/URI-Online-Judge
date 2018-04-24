@@ -1,0 +1,1 @@
+print  'MEDIA = %1.1f' % ((input()*2.0+input()*3.0+input()*5.0)/10.0)

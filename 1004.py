@@ -1,0 +1,1 @@
+print  'PROD = %d' % (input()*input())
